@@ -1,0 +1,2455 @@
+[
+  {
+    "title": "AMD Ryzen 7 9800X3D",
+    "category": "CPU",
+    "manufacturer": "AMD",
+    "price": "451.50",
+    "rating": "4.80",
+    "description": "8-core Zen 5 processor (AM5, PCIe 5.0).",
+    "specs": {
+      "socket": "AM5",
+      "cores": 8,
+      "base_clock_ghz": 4.7,
+      "max_boost_ghz": 5.2,
+      "tdp_watts": 120,
+      "pcie_version": "PCIe 5.0",
+      "integrated_graphics": "Radeon",
+      "microarchitecture": "Zen 5"
+    }
+  },
+  {
+    "title": "AMD Ryzen 7 7800X3D",
+    "category": "CPU",
+    "manufacturer": "AMD",
+    "price": "340.05",
+    "rating": "4.80",
+    "description": "8-core Zen 4 processor (AM5, PCIe 5.0).",
+    "specs": {
+      "socket": "AM5",
+      "cores": 8,
+      "base_clock_ghz": 4.2,
+      "max_boost_ghz": 5,
+      "tdp_watts": 120,
+      "pcie_version": "PCIe 5.0",
+      "integrated_graphics": "Radeon",
+      "microarchitecture": "Zen 4"
+    }
+  },
+  {
+    "title": "AMD Ryzen 5 7600X",
+    "category": "CPU",
+    "manufacturer": "AMD",
+    "price": "170.49",
+    "rating": "4.80",
+    "description": "6-core Zen 4 processor (AM5, PCIe 5.0).",
+    "specs": {
+      "socket": "AM5",
+      "cores": 6,
+      "base_clock_ghz": 4.7,
+      "max_boost_ghz": 5.3,
+      "tdp_watts": 105,
+      "pcie_version": "PCIe 5.0",
+      "integrated_graphics": "Radeon",
+      "microarchitecture": "Zen 4"
+    }
+  },
+  {
+    "title": "AMD Ryzen 5 9600X",
+    "category": "CPU",
+    "manufacturer": "AMD",
+    "price": "204.99",
+    "rating": "4.80",
+    "description": "6-core Zen 5 processor (AM5, PCIe 5.0).",
+    "specs": {
+      "socket": "AM5",
+      "cores": 6,
+      "base_clock_ghz": 3.9,
+      "max_boost_ghz": 5.4,
+      "tdp_watts": 65,
+      "pcie_version": "PCIe 5.0",
+      "integrated_graphics": "Radeon",
+      "microarchitecture": "Zen 5"
+    }
+  },
+  {
+    "title": "AMD Ryzen 7 7700X",
+    "category": "CPU",
+    "manufacturer": "AMD",
+    "price": "242.98",
+    "rating": "4.80",
+    "description": "8-core Zen 4 processor (AM5, PCIe 5.0).",
+    "specs": {
+      "socket": "AM5",
+      "cores": 8,
+      "base_clock_ghz": 4.5,
+      "max_boost_ghz": 5.4,
+      "tdp_watts": 105,
+      "pcie_version": "PCIe 5.0",
+      "integrated_graphics": "Radeon",
+      "microarchitecture": "Zen 4"
+    }
+  },
+  {
+    "title": "AMD Ryzen 9 9950X3D",
+    "category": "CPU",
+    "manufacturer": "AMD",
+    "price": "649.99",
+    "rating": "4.80",
+    "description": "16-core Zen 5 processor (AM5, PCIe 5.0).",
+    "specs": {
+      "socket": "AM5",
+      "cores": 16,
+      "base_clock_ghz": 4.3,
+      "max_boost_ghz": 5.7,
+      "tdp_watts": 170,
+      "pcie_version": "PCIe 5.0",
+      "integrated_graphics": "Radeon",
+      "microarchitecture": "Zen 5"
+    }
+  },
+  {
+    "title": "AMD Ryzen 5 5500",
+    "category": "CPU",
+    "manufacturer": "AMD",
+    "price": "74.22",
+    "rating": "4.80",
+    "description": "6-core Zen 3 processor (AM4, PCIe 3.0).",
+    "specs": {
+      "socket": "AM4",
+      "cores": 6,
+      "base_clock_ghz": 3.6,
+      "max_boost_ghz": 4.2,
+      "tdp_watts": 65,
+      "pcie_version": "PCIe 3.0",
+      "integrated_graphics": "None",
+      "microarchitecture": "Zen 3"
+    }
+  },
+  {
+    "title": "AMD Ryzen 7 9700X",
+    "category": "CPU",
+    "manufacturer": "AMD",
+    "price": "305.89",
+    "rating": "4.80",
+    "description": "8-core Zen 5 processor (AM5, PCIe 5.0).",
+    "specs": {
+      "socket": "AM5",
+      "cores": 8,
+      "base_clock_ghz": 3.8,
+      "max_boost_ghz": 5.5,
+      "tdp_watts": 65,
+      "pcie_version": "PCIe 5.0",
+      "integrated_graphics": "Radeon",
+      "microarchitecture": "Zen 5"
+    }
+  },
+  {
+    "title": "AMD Ryzen 5 5600X",
+    "category": "CPU",
+    "manufacturer": "AMD",
+    "price": "158.99",
+    "rating": "4.80",
+    "description": "6-core Zen 3 processor (AM4, PCIe 4.0).",
+    "specs": {
+      "socket": "AM4",
+      "cores": 6,
+      "base_clock_ghz": 3.7,
+      "max_boost_ghz": 4.6,
+      "tdp_watts": 65,
+      "pcie_version": "PCIe 4.0",
+      "integrated_graphics": "None",
+      "microarchitecture": "Zen 3"
+    }
+  },
+  {
+    "title": "AMD Ryzen 5 5600",
+    "category": "CPU",
+    "manufacturer": "AMD",
+    "price": "125.61",
+    "rating": "4.80",
+    "description": "6-core Zen 3 processor (AM4, PCIe 4.0).",
+    "specs": {
+      "socket": "AM4",
+      "cores": 6,
+      "base_clock_ghz": 3.5,
+      "max_boost_ghz": 4.4,
+      "tdp_watts": 65,
+      "pcie_version": "PCIe 4.0",
+      "integrated_graphics": "None",
+      "microarchitecture": "Zen 3"
+    }
+  },
+  {
+    "title": "AMD Ryzen 7 5800X",
+    "category": "CPU",
+    "manufacturer": "AMD",
+    "price": "179.95",
+    "rating": "4.80",
+    "description": "8-core Zen 3 processor (AM4, PCIe 4.0).",
+    "specs": {
+      "socket": "AM4",
+      "cores": 8,
+      "base_clock_ghz": 3.8,
+      "max_boost_ghz": 4.7,
+      "tdp_watts": 105,
+      "pcie_version": "PCIe 4.0",
+      "integrated_graphics": "None",
+      "microarchitecture": "Zen 3"
+    }
+  },
+  {
+    "title": "Intel Core i7-14700K",
+    "category": "CPU",
+    "manufacturer": "Intel",
+    "price": "297.17",
+    "rating": "4.80",
+    "description": "20-core Raptor Lake Refresh processor (LGA1700, PCIe 5.0).",
+    "specs": {
+      "socket": "LGA1700",
+      "cores": 20,
+      "base_clock_ghz": 3.4,
+      "max_boost_ghz": 5.6,
+      "tdp_watts": 125,
+      "pcie_version": "PCIe 5.0",
+      "integrated_graphics": "Intel UHD Graphics 770",
+      "microarchitecture": "Raptor Lake Refresh"
+    }
+  },
+  {
+    "title": "Intel Core i9-14900K",
+    "category": "CPU",
+    "manufacturer": "Intel",
+    "price": "439.00",
+    "rating": "4.80",
+    "description": "24-core Raptor Lake Refresh processor (LGA1700, PCIe 5.0).",
+    "specs": {
+      "socket": "LGA1700",
+      "cores": 24,
+      "base_clock_ghz": 3.2,
+      "max_boost_ghz": 6,
+      "tdp_watts": 125,
+      "pcie_version": "PCIe 5.0",
+      "integrated_graphics": "Intel UHD Graphics 770",
+      "microarchitecture": "Raptor Lake Refresh"
+    }
+  },
+  {
+    "title": "Intel Core i5-12400F",
+    "category": "CPU",
+    "manufacturer": "Intel",
+    "price": "108.99",
+    "rating": "4.80",
+    "description": "6-core Alder Lake processor (LGA1700, PCIe 5.0).",
+    "specs": {
+      "socket": "LGA1700",
+      "cores": 6,
+      "base_clock_ghz": 2.5,
+      "max_boost_ghz": 4.4,
+      "tdp_watts": 65,
+      "pcie_version": "PCIe 5.0",
+      "integrated_graphics": "None",
+      "microarchitecture": "Alder Lake"
+    }
+  },
+  {
+    "title": "AMD Ryzen 5 3600",
+    "category": "CPU",
+    "manufacturer": "AMD",
+    "price": "79.75",
+    "rating": "4.80",
+    "description": "6-core Zen 2 processor (AM4, PCIe 4.0).",
+    "specs": {
+      "socket": "AM4",
+      "cores": 6,
+      "base_clock_ghz": 3.6,
+      "max_boost_ghz": 4.2,
+      "tdp_watts": 65,
+      "pcie_version": "PCIe 4.0",
+      "integrated_graphics": "None",
+      "microarchitecture": "Zen 2"
+    }
+  },
+  {
+    "title": "Asus PRIME B650-PLUS WIFI",
+    "category": "Motherboard",
+    "manufacturer": "Asus",
+    "price": "159.99",
+    "rating": "4.70",
+    "description": "ATX B650 motherboard (AM5, DDR5).",
+    "specs": {
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "ATX",
+      "memory_type": [
+        "DDR5",
+        4
+      ],
+      "max_memory_gb": 192,
+      "pcie_x16": [
+        "PCIe 4.0",
+        2
+      ],
+      "m2_slots": [
+        "PCIe 5.0",
+        2
+      ],
+      "sata_ports": [
+        "SATA 6Gb/s",
+        4
+      ],
+      "usb_type_c": [
+        "Rear + Front Header",
+        2
+      ],
+      "has_wifi": true,
+      "color": "Black / Silver"
+    }
+  },
+  {
+    "title": "MSI B650 GAMING PLUS WIFI",
+    "category": "Motherboard",
+    "manufacturer": "MSI",
+    "price": "169.99",
+    "rating": "4.70",
+    "description": "ATX B650 motherboard (AM5, DDR5).",
+    "specs": {
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "ATX",
+      "memory_type": [
+        "DDR5",
+        4
+      ],
+      "max_memory_gb": 192,
+      "pcie_x16": [
+        "PCIe 4.0",
+        2
+      ],
+      "m2_slots": [
+        "PCIe 4.0",
+        2
+      ],
+      "sata_ports": [
+        "SATA 6Gb/s",
+        4
+      ],
+      "usb_type_c": [
+        "Rear + Front Header",
+        2
+      ],
+      "has_wifi": true,
+      "color": "Black"
+    }
+  },
+  {
+    "title": "MSI MAG B650 TOMAHAWK WIFI",
+    "category": "Motherboard",
+    "manufacturer": "MSI",
+    "price": "189.42",
+    "rating": "4.70",
+    "description": "ATX B650 motherboard (AM5, DDR5).",
+    "specs": {
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "ATX",
+      "memory_type": [
+        "DDR5",
+        4
+      ],
+      "max_memory_gb": 256,
+      "pcie_x16": [
+        "PCIe 4.0",
+        2
+      ],
+      "m2_slots": [
+        "PCIe 4.0",
+        3
+      ],
+      "sata_ports": [
+        "SATA 6Gb/s",
+        6
+      ],
+      "usb_type_c": [
+        "Rear + Front Header",
+        2
+      ],
+      "has_wifi": true,
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Gigabyte X870E AORUS ELITE WIFI7",
+    "category": "Motherboard",
+    "manufacturer": "Gigabyte",
+    "price": "325.31",
+    "rating": "4.70",
+    "description": "ATX X870E motherboard (AM5, DDR5).",
+    "specs": {
+      "socket": "AM5",
+      "chipset": "X870E",
+      "form_factor": "ATX",
+      "memory_type": [
+        "DDR5",
+        4
+      ],
+      "max_memory_gb": 256,
+      "pcie_x16": [
+        "PCIe 5.0",
+        1
+      ],
+      "m2_slots": [
+        "PCIe 5.0",
+        4
+      ],
+      "sata_ports": [
+        "SATA 6Gb/s",
+        4
+      ],
+      "usb_type_c": [
+        "Rear USB4 + Front Header",
+        3
+      ],
+      "has_wifi": true,
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Asus PRIME B550M-A WIFI II",
+    "category": "Motherboard",
+    "manufacturer": "Asus",
+    "price": "99.99",
+    "rating": "4.70",
+    "description": "Micro-ATX B550 motherboard (AM4, DDR4).",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "B550",
+      "form_factor": "Micro-ATX",
+      "memory_type": [
+        "DDR4",
+        4
+      ],
+      "max_memory_gb": 128,
+      "pcie_x16": [
+        "PCIe 4.0",
+        1
+      ],
+      "m2_slots": [
+        "PCIe 4.0",
+        2
+      ],
+      "sata_ports": [
+        "SATA 6Gb/s",
+        4
+      ],
+      "usb_type_c": [
+        "None",
+        0
+      ],
+      "has_wifi": true,
+      "color": "Blue / Silver"
+    }
+  },
+  {
+    "title": "Gigabyte B650 EAGLE AX",
+    "category": "Motherboard",
+    "manufacturer": "Gigabyte",
+    "price": "157.99",
+    "rating": "4.70",
+    "description": "ATX B650 motherboard (AM5, DDR5).",
+    "specs": {
+      "socket": "AM5",
+      "chipset": "B650",
+      "form_factor": "ATX",
+      "memory_type": [
+        "DDR5",
+        4
+      ],
+      "max_memory_gb": 192,
+      "pcie_x16": [
+        "PCIe 4.0",
+        1
+      ],
+      "m2_slots": [
+        "PCIe 5.0",
+        3
+      ],
+      "sata_ports": [
+        "SATA 6Gb/s",
+        4
+      ],
+      "usb_type_c": [
+        "Rear + Front Header",
+        2
+      ],
+      "has_wifi": true,
+      "color": "Gray / Black"
+    }
+  },
+  {
+    "title": "Asus TUF GAMING B850-PLUS WIFI",
+    "category": "Motherboard",
+    "manufacturer": "Asus",
+    "price": "217.99",
+    "rating": "4.70",
+    "description": "ATX B850 motherboard (AM5, DDR5).",
+    "specs": {
+      "socket": "AM5",
+      "chipset": "B850",
+      "form_factor": "ATX",
+      "memory_type": [
+        "DDR5",
+        4
+      ],
+      "max_memory_gb": 192,
+      "pcie_x16": [
+        "PCIe 5.0",
+        2
+      ],
+      "m2_slots": [
+        "PCIe 5.0",
+        3
+      ],
+      "sata_ports": [
+        "SATA 6Gb/s",
+        4
+      ],
+      "usb_type_c": [
+        "Rear + Front Header",
+        2
+      ],
+      "has_wifi": true,
+      "color": "Black / Silver"
+    }
+  },
+  {
+    "title": "Gigabyte A520M K V2",
+    "category": "Motherboard",
+    "manufacturer": "Gigabyte",
+    "price": "68.47",
+    "rating": "4.70",
+    "description": "Micro-ATX A520 motherboard (AM4, DDR4).",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "A520",
+      "form_factor": "Micro-ATX",
+      "memory_type": [
+        "DDR4",
+        2
+      ],
+      "max_memory_gb": 64,
+      "pcie_x16": [
+        "PCIe 3.0",
+        1
+      ],
+      "m2_slots": [
+        "PCIe 3.0",
+        1
+      ],
+      "sata_ports": [
+        "SATA 6Gb/s",
+        4
+      ],
+      "usb_type_c": [
+        "None",
+        0
+      ],
+      "has_wifi": false,
+      "color": "Brown / Black"
+    }
+  },
+  {
+    "title": "Gigabyte B550M K",
+    "category": "Motherboard",
+    "manufacturer": "Gigabyte",
+    "price": "99.99",
+    "rating": "4.70",
+    "description": "Micro-ATX B550 motherboard (AM4, DDR4).",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "B550",
+      "form_factor": "Micro-ATX",
+      "memory_type": [
+        "DDR4",
+        4
+      ],
+      "max_memory_gb": 128,
+      "pcie_x16": [
+        "PCIe 4.0",
+        1
+      ],
+      "m2_slots": [
+        "PCIe 4.0",
+        2
+      ],
+      "sata_ports": [
+        "SATA 6Gb/s",
+        4
+      ],
+      "usb_type_c": [
+        "None",
+        0
+      ],
+      "has_wifi": false,
+      "color": "Brown / Silver"
+    }
+  },
+  {
+    "title": "MSI B760 GAMING PLUS WIFI",
+    "category": "Motherboard",
+    "manufacturer": "MSI",
+    "price": "169.99",
+    "rating": "4.70",
+    "description": "ATX B760 motherboard (LGA1700, DDR5).",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "form_factor": "ATX",
+      "memory_type": [
+        "DDR5",
+        4
+      ],
+      "max_memory_gb": 192,
+      "pcie_x16": [
+        "PCIe 4.0",
+        2
+      ],
+      "m2_slots": [
+        "PCIe 4.0",
+        2
+      ],
+      "sata_ports": [
+        "SATA 6Gb/s",
+        4
+      ],
+      "usb_type_c": [
+        "Rear + Front Header",
+        2
+      ],
+      "has_wifi": true,
+      "color": "Black / Silver"
+    }
+  },
+  {
+    "title": "MSI PRO B550M-VC WIFI",
+    "category": "Motherboard",
+    "manufacturer": "MSI",
+    "price": "99.99",
+    "rating": "4.70",
+    "description": "Micro-ATX B550 motherboard (AM4, DDR4).",
+    "specs": {
+      "socket": "AM4",
+      "chipset": "B550",
+      "form_factor": "Micro-ATX",
+      "memory_type": [
+        "DDR4",
+        4
+      ],
+      "max_memory_gb": 128,
+      "pcie_x16": [
+        "PCIe 4.0",
+        1
+      ],
+      "m2_slots": [
+        "PCIe 4.0",
+        2
+      ],
+      "sata_ports": [
+        "SATA 6Gb/s",
+        8
+      ],
+      "usb_type_c": [
+        "Front Header",
+        1
+      ],
+      "has_wifi": true,
+      "color": "Black"
+    }
+  },
+  {
+    "title": "MSI PRO Z790-A MAX WIFI",
+    "category": "Motherboard",
+    "manufacturer": "MSI",
+    "price": "220.00",
+    "rating": "4.70",
+    "description": "ATX Z790 motherboard (LGA1700, DDR5).",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Z790",
+      "form_factor": "ATX",
+      "memory_type": [
+        "DDR5",
+        4
+      ],
+      "max_memory_gb": 192,
+      "pcie_x16": [
+        "PCIe 5.0",
+        1
+      ],
+      "m2_slots": [
+        "PCIe 4.0",
+        4
+      ],
+      "sata_ports": [
+        "SATA 6Gb/s",
+        6
+      ],
+      "usb_type_c": [
+        "Rear + Front Header",
+        2
+      ],
+      "has_wifi": true,
+      "color": "Silver / Black"
+    }
+  },
+  {
+    "title": "Gigabyte B760M GAMING PLUS WIFI DDR4",
+    "category": "Motherboard",
+    "manufacturer": "Gigabyte",
+    "price": "139.49",
+    "rating": "4.70",
+    "description": "Micro-ATX B760 motherboard (LGA1700, DDR4).",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "form_factor": "Micro-ATX",
+      "memory_type": [
+        "DDR4",
+        4
+      ],
+      "max_memory_gb": 128,
+      "pcie_x16": [
+        "PCIe 4.0",
+        1
+      ],
+      "m2_slots": [
+        "PCIe 4.0",
+        2
+      ],
+      "sata_ports": [
+        "SATA 6Gb/s",
+        4
+      ],
+      "usb_type_c": [
+        "Front Header",
+        1
+      ],
+      "has_wifi": true,
+      "color": "Black / Silver"
+    }
+  },
+  {
+    "title": "Gigabyte Z790 EAGLE AX",
+    "category": "Motherboard",
+    "manufacturer": "Gigabyte",
+    "price": "169.99",
+    "rating": "4.70",
+    "description": "ATX Z790 motherboard (LGA1700, DDR5).",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "Z790",
+      "form_factor": "ATX",
+      "memory_type": [
+        "DDR5",
+        4
+      ],
+      "max_memory_gb": 192,
+      "pcie_x16": [
+        "PCIe 5.0",
+        2
+      ],
+      "m2_slots": [
+        "PCIe 4.0",
+        3
+      ],
+      "sata_ports": [
+        "SATA 6Gb/s",
+        4
+      ],
+      "usb_type_c": [
+        "Rear + Front Header",
+        2
+      ],
+      "has_wifi": true,
+      "color": "Gray / Black"
+    }
+  },
+  {
+    "title": "MSI PRO B760M-P DDR4",
+    "category": "Motherboard",
+    "manufacturer": "MSI",
+    "price": "99.99",
+    "rating": "4.70",
+    "description": "Micro-ATX B760 motherboard (LGA1700, DDR4).",
+    "specs": {
+      "socket": "LGA1700",
+      "chipset": "B760",
+      "form_factor": "Micro-ATX",
+      "memory_type": [
+        "DDR4",
+        4
+      ],
+      "max_memory_gb": 128,
+      "pcie_x16": [
+        "PCIe 4.0",
+        1
+      ],
+      "m2_slots": [
+        "PCIe 4.0",
+        2
+      ],
+      "sata_ports": [
+        "SATA 6Gb/s",
+        4
+      ],
+      "usb_type_c": [
+        "Rear",
+        1
+      ],
+      "has_wifi": false,
+      "color": "Black"
+    }
+  },
+  {
+    "title": "MSI GeForce RTX 3060 Ventus 2X 12G",
+    "category": "GPU",
+    "manufacturer": "MSI",
+    "price": "299.97",
+    "rating": "4.75",
+    "description": "GeForce RTX 3060 12GB graphics card (12 GB GDDR6, PCIe 4.0 x16).",
+    "specs": {
+      "chipset_model": "GeForce RTX 3060 12GB",
+      "vram": [
+        "GDDR6",
+        12
+      ],
+      "interface": "PCIe 4.0 x16",
+      "core_clock_mhz": 1320,
+      "boost_clock_mhz": 1777,
+      "length_mm": 235,
+      "tdp_watts": 170,
+      "recommended_psu_watts": 550,
+      "power_connector": [
+        "PCIe 8-pin",
+        1
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Sapphire PULSE (Radeon RX 9060 XT)",
+    "category": "GPU",
+    "manufacturer": "Sapphire",
+    "price": "379.99",
+    "rating": "4.75",
+    "description": "Radeon RX 9060 XT graphics card (16 GB GDDR6, PCIe 5.0 x16).",
+    "specs": {
+      "chipset_model": "Radeon RX 9060 XT",
+      "vram": [
+        "GDDR6",
+        16
+      ],
+      "interface": "PCIe 5.0 x16",
+      "core_clock_mhz": 2220,
+      "boost_clock_mhz": 3290,
+      "length_mm": 240,
+      "tdp_watts": 160,
+      "recommended_psu_watts": 450,
+      "power_connector": [
+        "PCIe 8-pin",
+        1
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "MSI SHADOW 3X OC (GeForce RTX 5070 Ti)",
+    "category": "GPU",
+    "manufacturer": "MSI",
+    "price": "829.99",
+    "rating": "4.75",
+    "description": "GeForce RTX 5070 Ti graphics card (16 GB GDDR7, PCIe 5.0 x16).",
+    "specs": {
+      "chipset_model": "GeForce RTX 5070 Ti",
+      "vram": [
+        "GDDR7",
+        16
+      ],
+      "interface": "PCIe 5.0 x16",
+      "core_clock_mhz": 2300,
+      "boost_clock_mhz": 2497,
+      "length_mm": 303,
+      "tdp_watts": 300,
+      "recommended_psu_watts": 750,
+      "power_connector": [
+        "12V-2x6",
+        1
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Gigabyte WINDFORCE OC SFF (GeForce RTX 5070)",
+    "category": "GPU",
+    "manufacturer": "Gigabyte",
+    "price": "549.99",
+    "rating": "4.75",
+    "description": "GeForce RTX 5070 graphics card (12 GB GDDR7, PCIe 5.0 x16).",
+    "specs": {
+      "chipset_model": "GeForce RTX 5070",
+      "vram": [
+        "GDDR7",
+        12
+      ],
+      "interface": "PCIe 5.0 x16",
+      "core_clock_mhz": 2160,
+      "boost_clock_mhz": 2542,
+      "length_mm": 282,
+      "tdp_watts": 250,
+      "recommended_psu_watts": 650,
+      "power_connector": [
+        "12V-2x6",
+        1
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Sapphire PULSE (Radeon RX 9070 XT)",
+    "category": "GPU",
+    "manufacturer": "Sapphire",
+    "price": "749.99",
+    "rating": "4.75",
+    "description": "Radeon RX 9070 XT graphics card (16 GB GDDR6, PCIe 5.0 x16).",
+    "specs": {
+      "chipset_model": "Radeon RX 9070 XT",
+      "vram": [
+        "GDDR6",
+        16
+      ],
+      "interface": "PCIe 5.0 x16",
+      "core_clock_mhz": 2400,
+      "boost_clock_mhz": 2970,
+      "length_mm": 320,
+      "tdp_watts": 304,
+      "recommended_psu_watts": 750,
+      "power_connector": [
+        "PCIe 8-pin",
+        2
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "ASRock Challenger OC (Radeon RX 9060 XT)",
+    "category": "GPU",
+    "manufacturer": "ASRock",
+    "price": "369.99",
+    "rating": "4.75",
+    "description": "Radeon RX 9060 XT graphics card (16 GB GDDR6, PCIe 5.0 x16).",
+    "specs": {
+      "chipset_model": "Radeon RX 9060 XT",
+      "vram": [
+        "GDDR6",
+        16
+      ],
+      "interface": "PCIe 5.0 x16",
+      "core_clock_mhz": 2220,
+      "boost_clock_mhz": 3290,
+      "length_mm": 249,
+      "tdp_watts": 160,
+      "recommended_psu_watts": 450,
+      "power_connector": [
+        "PCIe 8-pin",
+        1
+      ],
+      "color": "Black / Silver"
+    }
+  },
+  {
+    "title": "Gigabyte GAMING OC (Radeon RX 9070 XT)",
+    "category": "GPU",
+    "manufacturer": "Gigabyte",
+    "price": "729.99",
+    "rating": "4.75",
+    "description": "Radeon RX 9070 XT graphics card (16 GB GDDR6, PCIe 5.0 x16).",
+    "specs": {
+      "chipset_model": "Radeon RX 9070 XT",
+      "vram": [
+        "GDDR6",
+        16
+      ],
+      "interface": "PCIe 5.0 x16",
+      "core_clock_mhz": 2520,
+      "boost_clock_mhz": 3060,
+      "length_mm": 288,
+      "tdp_watts": 304,
+      "recommended_psu_watts": 750,
+      "power_connector": [
+        "PCIe 8-pin",
+        2
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Gigabyte GAMING OC (Radeon RX 7600 XT)",
+    "category": "GPU",
+    "manufacturer": "Gigabyte",
+    "price": "359.97",
+    "rating": "4.75",
+    "description": "Radeon RX 7600 XT graphics card (16 GB GDDR6, PCIe 4.0 x8).",
+    "specs": {
+      "chipset_model": "Radeon RX 7600 XT",
+      "vram": [
+        "GDDR6",
+        16
+      ],
+      "interface": "PCIe 4.0 x8",
+      "core_clock_mhz": 1720,
+      "boost_clock_mhz": 2810,
+      "length_mm": 281,
+      "tdp_watts": 190,
+      "recommended_psu_watts": 600,
+      "power_connector": [
+        "PCIe 8-pin",
+        2
+      ],
+      "color": "Black / Gray"
+    }
+  },
+  {
+    "title": "Asus ROG Astral OC (GeForce RTX 5090)",
+    "category": "GPU",
+    "manufacturer": "Asus",
+    "price": "3359.99",
+    "rating": "4.75",
+    "description": "GeForce RTX 5090 graphics card (32 GB GDDR7, PCIe 5.0 x16).",
+    "specs": {
+      "chipset_model": "GeForce RTX 5090",
+      "vram": [
+        "GDDR7",
+        32
+      ],
+      "interface": "PCIe 5.0 x16",
+      "core_clock_mhz": 2010,
+      "boost_clock_mhz": 2610,
+      "length_mm": 358,
+      "tdp_watts": 575,
+      "recommended_psu_watts": 1000,
+      "power_connector": [
+        "12V-2x6",
+        1
+      ],
+      "color": "Black / Silver"
+    }
+  },
+  {
+    "title": "ASRock Challenger D (Radeon RX 6600)",
+    "category": "GPU",
+    "manufacturer": "ASRock",
+    "price": "219.99",
+    "rating": "4.75",
+    "description": "Radeon RX 6600 graphics card (8 GB GDDR6, PCIe 4.0 x8).",
+    "specs": {
+      "chipset_model": "Radeon RX 6600",
+      "vram": [
+        "GDDR6",
+        8
+      ],
+      "interface": "PCIe 4.0 x8",
+      "core_clock_mhz": 1626,
+      "boost_clock_mhz": null,
+      "length_mm": 269,
+      "tdp_watts": 132,
+      "recommended_psu_watts": 500,
+      "power_connector": [
+        "PCIe 8-pin",
+        1
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Asus PRIME OC (Radeon RX 9070 XT)",
+    "category": "GPU",
+    "manufacturer": "Asus",
+    "price": "719.99",
+    "rating": "4.75",
+    "description": "Radeon RX 9070 XT graphics card (16 GB GDDR6, PCIe 5.0 x16).",
+    "specs": {
+      "chipset_model": "Radeon RX 9070 XT",
+      "vram": [
+        "GDDR6",
+        16
+      ],
+      "interface": "PCIe 5.0 x16",
+      "core_clock_mhz": 2460,
+      "boost_clock_mhz": 3030,
+      "length_mm": 312,
+      "tdp_watts": 304,
+      "recommended_psu_watts": 750,
+      "power_connector": [
+        "PCIe 8-pin",
+        2
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Asus PRIME (GeForce RTX 5060 Ti)",
+    "category": "GPU",
+    "manufacturer": "Asus",
+    "price": "479.99",
+    "rating": "4.75",
+    "description": "GeForce RTX 5060 Ti graphics card (16 GB GDDR7, PCIe 5.0 x8).",
+    "specs": {
+      "chipset_model": "GeForce RTX 5060 Ti",
+      "vram": [
+        "GDDR7",
+        16
+      ],
+      "interface": "PCIe 5.0 x8",
+      "core_clock_mhz": 2410,
+      "boost_clock_mhz": 2602,
+      "length_mm": 304,
+      "tdp_watts": 180,
+      "recommended_psu_watts": 600,
+      "power_connector": [
+        "12V-2x6",
+        1
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "MSI VENTUS 2X BLACK OC (GeForce RTX 4060)",
+    "category": "GPU",
+    "manufacturer": "MSI",
+    "price": "449.99",
+    "rating": "4.75",
+    "description": "GeForce RTX 4060 graphics card (8 GB GDDR6, PCIe 4.0 x8).",
+    "specs": {
+      "chipset_model": "GeForce RTX 4060",
+      "vram": [
+        "GDDR6",
+        8
+      ],
+      "interface": "PCIe 4.0 x8",
+      "core_clock_mhz": 1830,
+      "boost_clock_mhz": 2505,
+      "length_mm": 199,
+      "tdp_watts": 115,
+      "recommended_psu_watts": 550,
+      "power_connector": [
+        "PCIe 8-pin",
+        1
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Asus PRIME OC (GeForce RTX 5070)",
+    "category": "GPU",
+    "manufacturer": "Asus",
+    "price": "589.99",
+    "rating": "4.75",
+    "description": "GeForce RTX 5070 graphics card (12 GB GDDR7, PCIe 5.0 x16).",
+    "specs": {
+      "chipset_model": "GeForce RTX 5070",
+      "vram": [
+        "GDDR7",
+        12
+      ],
+      "interface": "PCIe 5.0 x16",
+      "core_clock_mhz": 2160,
+      "boost_clock_mhz": null,
+      "length_mm": 306,
+      "tdp_watts": 250,
+      "recommended_psu_watts": 650,
+      "power_connector": [
+        "12V-2x6",
+        1
+      ],
+      "color": "Black / White"
+    }
+  },
+  {
+    "title": "MSI VENTUS 2X PLUS OC (GeForce RTX 5060 Ti)",
+    "category": "GPU",
+    "manufacturer": "MSI",
+    "price": "499.99",
+    "rating": "4.75",
+    "description": "GeForce RTX 5060 Ti graphics card (16 GB GDDR7, PCIe 5.0 x8).",
+    "specs": {
+      "chipset_model": "GeForce RTX 5060 Ti",
+      "vram": [
+        "GDDR7",
+        16
+      ],
+      "interface": "PCIe 5.0 x8",
+      "core_clock_mhz": 2410,
+      "boost_clock_mhz": 2617,
+      "length_mm": 227,
+      "tdp_watts": 180,
+      "recommended_psu_watts": 600,
+      "power_connector": [
+        "12V-2x6",
+        1
+      ],
+      "color": "Black / Gray"
+    }
+  },
+  {
+    "title": "Corsair Vengeance RGB 32 GB (DDR5-6000)",
+    "category": "RAM",
+    "manufacturer": "Corsair",
+    "price": "94.99",
+    "rating": "4.85",
+    "description": "32 GB (2x16 GB) DDR5-6000 memory kit.",
+    "specs": {
+      "memory_type": [
+        "DDR5",
+        2
+      ],
+      "capacity_gb": 32,
+      "frequency_mhz": 6000,
+      "cas_latency": "CL36",
+      "color": "Black"
+    }
+  },
+  {
+    "title": "G.Skill Flare X5 32 GB (DDR5-6000)",
+    "category": "RAM",
+    "manufacturer": "G.Skill",
+    "price": "89.99",
+    "rating": "4.85",
+    "description": "32 GB (2x16 GB) DDR5-6000 memory kit.",
+    "specs": {
+      "memory_type": [
+        "DDR5",
+        2
+      ],
+      "capacity_gb": 32,
+      "frequency_mhz": 6000,
+      "cas_latency": "CL36",
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Corsair Vengeance LPX 16 GB (DDR4-3200)",
+    "category": "RAM",
+    "manufacturer": "Corsair",
+    "price": "45.99",
+    "rating": "4.85",
+    "description": "16 GB (2x8 GB) DDR4-3200 memory kit.",
+    "specs": {
+      "memory_type": [
+        "DDR4",
+        2
+      ],
+      "capacity_gb": 16,
+      "frequency_mhz": 3200,
+      "cas_latency": "CL16",
+      "color": "Black / Yellow"
+    }
+  },
+  {
+    "title": "Corsair Vengeance 32 GB (DDR5-6000)",
+    "category": "RAM",
+    "manufacturer": "Corsair",
+    "price": "129.99",
+    "rating": "4.85",
+    "description": "32 GB (2x16 GB) DDR5-6000 memory kit.",
+    "specs": {
+      "memory_type": [
+        "DDR5",
+        2
+      ],
+      "capacity_gb": 32,
+      "frequency_mhz": 6000,
+      "cas_latency": "CL30",
+      "color": "Black / Gray"
+    }
+  },
+  {
+    "title": "TEAMGROUP T-Create Expert 32 GB (DDR5-6000)",
+    "category": "RAM",
+    "manufacturer": "TEAMGROUP",
+    "price": "98.99",
+    "rating": "4.85",
+    "description": "32 GB (2x16 GB) DDR5-6000 memory kit.",
+    "specs": {
+      "memory_type": [
+        "DDR5",
+        2
+      ],
+      "capacity_gb": 32,
+      "frequency_mhz": 6000,
+      "cas_latency": "CL30",
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Corsair Vengeance LPX 32 GB (DDR4-3600)",
+    "category": "RAM",
+    "manufacturer": "Corsair",
+    "price": "77.98",
+    "rating": "4.85",
+    "description": "32 GB (2x16 GB) DDR4-3600 memory kit.",
+    "specs": {
+      "memory_type": [
+        "DDR4",
+        2
+      ],
+      "capacity_gb": 32,
+      "frequency_mhz": 3600,
+      "cas_latency": "CL18",
+      "color": "Black / Yellow"
+    }
+  },
+  {
+    "title": "Crucial Pro Overclocking 32 GB (DDR5-6000)",
+    "category": "RAM",
+    "manufacturer": "Crucial",
+    "price": "84.99",
+    "rating": "4.85",
+    "description": "32 GB (2x16 GB) DDR5-6000 memory kit.",
+    "specs": {
+      "memory_type": [
+        "DDR5",
+        2
+      ],
+      "capacity_gb": 32,
+      "frequency_mhz": 6000,
+      "cas_latency": "CL36",
+      "color": "Black"
+    }
+  },
+  {
+    "title": "G.Skill Trident Z5 RGB 64 GB (DDR5-6400)",
+    "category": "RAM",
+    "manufacturer": "G.Skill",
+    "price": "234.99",
+    "rating": "4.85",
+    "description": "64 GB (2x32 GB) DDR5-6400 memory kit.",
+    "specs": {
+      "memory_type": [
+        "DDR5",
+        2
+      ],
+      "capacity_gb": 64,
+      "frequency_mhz": 6400,
+      "cas_latency": "CL32",
+      "color": "Black / Silver"
+    }
+  },
+  {
+    "title": "Corsair Vengeance RGB 64 GB (DDR5-6000)",
+    "category": "RAM",
+    "manufacturer": "Corsair",
+    "price": "229.99",
+    "rating": "4.85",
+    "description": "64 GB (2x32 GB) DDR5-6000 memory kit.",
+    "specs": {
+      "memory_type": [
+        "DDR5",
+        2
+      ],
+      "capacity_gb": 64,
+      "frequency_mhz": 6000,
+      "cas_latency": "CL30",
+      "color": "Black"
+    }
+  },
+  {
+    "title": "TEAMGROUP T-Force Delta RGB 32 GB (DDR5-6000)",
+    "category": "RAM",
+    "manufacturer": "TEAMGROUP",
+    "price": "105.99",
+    "rating": "4.85",
+    "description": "32 GB (2x16 GB) DDR5-6000 memory kit.",
+    "specs": {
+      "memory_type": [
+        "DDR5",
+        2
+      ],
+      "capacity_gb": 32,
+      "frequency_mhz": 6000,
+      "cas_latency": "CL30",
+      "color": "White"
+    }
+  },
+  {
+    "title": "G.Skill Trident Z5 Neo RGB 32 GB (DDR5-6000)",
+    "category": "RAM",
+    "manufacturer": "G.Skill",
+    "price": "119.99",
+    "rating": "4.85",
+    "description": "32 GB (2x16 GB) DDR5-6000 memory kit.",
+    "specs": {
+      "memory_type": [
+        "DDR5",
+        2
+      ],
+      "capacity_gb": 32,
+      "frequency_mhz": 6000,
+      "cas_latency": "CL30",
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Corsair Vengeance RGB Pro 32 GB (DDR4-3600)",
+    "category": "RAM",
+    "manufacturer": "Corsair",
+    "price": "115.00",
+    "rating": "4.85",
+    "description": "32 GB (2x16 GB) DDR4-3600 memory kit.",
+    "specs": {
+      "memory_type": [
+        "DDR4",
+        2
+      ],
+      "capacity_gb": 32,
+      "frequency_mhz": 3600,
+      "cas_latency": "CL18",
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Silicon Power GAMING 16 GB (DDR4-3200)",
+    "category": "RAM",
+    "manufacturer": "Silicon Power",
+    "price": "32.97",
+    "rating": "4.85",
+    "description": "16 GB (2x8 GB) DDR4-3200 memory kit.",
+    "specs": {
+      "memory_type": [
+        "DDR4",
+        2
+      ],
+      "capacity_gb": 16,
+      "frequency_mhz": 3200,
+      "cas_latency": "CL16",
+      "color": "Black / Gray"
+    }
+  },
+  {
+    "title": "TEAMGROUP T-Force Vulcan Z 16 GB (DDR4-3200)",
+    "category": "RAM",
+    "manufacturer": "TEAMGROUP",
+    "price": "38.99",
+    "rating": "4.85",
+    "description": "16 GB (2x8 GB) DDR4-3200 memory kit.",
+    "specs": {
+      "memory_type": [
+        "DDR4",
+        2
+      ],
+      "capacity_gb": 16,
+      "frequency_mhz": 3200,
+      "cas_latency": "CL16",
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Corsair Vengeance LPX 32 GB (DDR4-3200)",
+    "category": "RAM",
+    "manufacturer": "Corsair",
+    "price": "71.98",
+    "rating": "4.85",
+    "description": "32 GB (2x16 GB) DDR4-3200 memory kit.",
+    "specs": {
+      "memory_type": [
+        "DDR4",
+        2
+      ],
+      "capacity_gb": 32,
+      "frequency_mhz": 3200,
+      "cas_latency": "CL16",
+      "color": "Black / Yellow"
+    }
+  },
+  {
+    "title": "Samsung 990 Pro 2000 GB",
+    "category": "Storage",
+    "manufacturer": "Samsung",
+    "price": "149.99",
+    "rating": "4.80",
+    "description": "2000 GB NVMe M.2 SSD (M.2 PCIe 4.0 X4).",
+    "specs": {
+      "type": "NVMe M.2 SSD",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "interface": "M.2 PCIe 4.0 X4",
+      "cache_mb": 2048
+    }
+  },
+  {
+    "title": "Crucial P3 Plus 1000 GB",
+    "category": "Storage",
+    "manufacturer": "Crucial",
+    "price": "56.95",
+    "rating": "4.80",
+    "description": "1000 GB NVMe M.2 SSD (M.2 PCIe 4.0 X4).",
+    "specs": {
+      "type": "NVMe M.2 SSD",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "interface": "M.2 PCIe 4.0 X4",
+      "cache_mb": null
+    }
+  },
+  {
+    "title": "Crucial P3 Plus 2000 GB",
+    "category": "Storage",
+    "manufacturer": "Crucial",
+    "price": "113.95",
+    "rating": "4.80",
+    "description": "2000 GB NVMe M.2 SSD (M.2 PCIe 4.0 X4).",
+    "specs": {
+      "type": "NVMe M.2 SSD",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 2000,
+      "interface": "M.2 PCIe 4.0 X4",
+      "cache_mb": null
+    }
+  },
+  {
+    "title": "Samsung 990 Pro 4000 GB",
+    "category": "Storage",
+    "manufacturer": "Samsung",
+    "price": "299.99",
+    "rating": "4.80",
+    "description": "4000 GB NVMe M.2 SSD (M.2 PCIe 4.0 X4).",
+    "specs": {
+      "type": "NVMe M.2 SSD",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 4000,
+      "interface": "M.2 PCIe 4.0 X4",
+      "cache_mb": 4096
+    }
+  },
+  {
+    "title": "Kingston NV3 1000 GB",
+    "category": "Storage",
+    "manufacturer": "Kingston",
+    "price": "58.00",
+    "rating": "4.80",
+    "description": "1000 GB NVMe M.2 SSD (M.2 PCIe 4.0 X4).",
+    "specs": {
+      "type": "NVMe M.2 SSD",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "interface": "M.2 PCIe 4.0 X4",
+      "cache_mb": null
+    }
+  },
+  {
+    "title": "Samsung 990 Pro 1000 GB",
+    "category": "Storage",
+    "manufacturer": "Samsung",
+    "price": "99.99",
+    "rating": "4.80",
+    "description": "1000 GB NVMe M.2 SSD (M.2 PCIe 4.0 X4).",
+    "specs": {
+      "type": "NVMe M.2 SSD",
+      "form_factor": "M.2 2280",
+      "capacity_gb": 1000,
+      "interface": "M.2 PCIe 4.0 X4",
+      "cache_mb": 1024
+    }
+  },
+  {
+    "title": "Samsung 870 Evo 1000 GB",
+    "category": "Storage",
+    "manufacturer": "Samsung",
+    "price": "92.90",
+    "rating": "4.80",
+    "description": "1000 GB SATA SSD (SATA 6.0 Gb/s).",
+    "specs": {
+      "type": "SATA SSD",
+      "form_factor": "2.5\"",
+      "capacity_gb": 1000,
+      "interface": "SATA 6.0 Gb/s",
+      "cache_mb": 1024
+    }
+  },
+  {
+    "title": "Samsung 870 Evo 4000 GB",
+    "category": "Storage",
+    "manufacturer": "Samsung",
+    "price": "265.00",
+    "rating": "4.80",
+    "description": "4000 GB SATA SSD (SATA 6.0 Gb/s).",
+    "specs": {
+      "type": "SATA SSD",
+      "form_factor": "2.5\"",
+      "capacity_gb": 4000,
+      "interface": "SATA 6.0 Gb/s",
+      "cache_mb": 4096
+    }
+  },
+  {
+    "title": "Mushkin Source HC 16000 GB",
+    "category": "Storage",
+    "manufacturer": "Mushkin",
+    "price": "3033.00",
+    "rating": "4.80",
+    "description": "16000 GB SATA SSD (SATA 6.0 Gb/s).",
+    "specs": {
+      "type": "SATA SSD",
+      "form_factor": "2.5\"",
+      "capacity_gb": 16000,
+      "interface": "SATA 6.0 Gb/s",
+      "cache_mb": null
+    }
+  },
+  {
+    "title": "Seagate Barracuda Compute 2000 GB",
+    "category": "Storage",
+    "manufacturer": "Seagate",
+    "price": "66.99",
+    "rating": "4.80",
+    "description": "2000 GB HDD (SATA 6.0 Gb/s).",
+    "specs": {
+      "type": "HDD",
+      "form_factor": "3.5\"",
+      "capacity_gb": 2000,
+      "interface": "SATA 6.0 Gb/s",
+      "cache_mb": 256
+    }
+  },
+  {
+    "title": "Seagate IronWolf Pro 24000 GB",
+    "category": "Storage",
+    "manufacturer": "Seagate",
+    "price": "479.99",
+    "rating": "4.80",
+    "description": "24000 GB HDD (SATA 6.0 Gb/s).",
+    "specs": {
+      "type": "HDD",
+      "form_factor": "3.5\"",
+      "capacity_gb": 24000,
+      "interface": "SATA 6.0 Gb/s",
+      "cache_mb": 512
+    }
+  },
+  {
+    "title": "Seagate BarraCuda 4000 GB",
+    "category": "Storage",
+    "manufacturer": "Seagate",
+    "price": "74.99",
+    "rating": "4.80",
+    "description": "4000 GB HDD (SATA 6.0 Gb/s).",
+    "specs": {
+      "type": "HDD",
+      "form_factor": "3.5\"",
+      "capacity_gb": 4000,
+      "interface": "SATA 6.0 Gb/s",
+      "cache_mb": 256
+    }
+  },
+  {
+    "title": "MSI MAG A750GL PCIE5",
+    "category": "PSU",
+    "manufacturer": "MSI",
+    "price": "109.99",
+    "rating": "4.75",
+    "description": "750W ATX power supply (80 PLUS Gold, Full Modular).",
+    "specs": {
+      "power_watts": 750,
+      "form_factor": "ATX",
+      "efficiency_rating": "80 PLUS Gold",
+      "modularity": "Full Modular",
+      "pcie_8pin": [
+        "PCIe 8-pin",
+        3
+      ],
+      "pcie_12vhpwr": [
+        "12V-2x6",
+        1
+      ],
+      "sata_connectors": [
+        "SATA",
+        8
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "MSI MAG A850GL PCIE5",
+    "category": "PSU",
+    "manufacturer": "MSI",
+    "price": "132.99",
+    "rating": "4.75",
+    "description": "850W ATX power supply (80 PLUS Gold, Full Modular).",
+    "specs": {
+      "power_watts": 850,
+      "form_factor": "ATX",
+      "efficiency_rating": "80 PLUS Gold",
+      "modularity": "Full Modular",
+      "pcie_8pin": [
+        "PCIe 8-pin",
+        4
+      ],
+      "pcie_12vhpwr": [
+        "12V-2x6",
+        1
+      ],
+      "sata_connectors": [
+        "SATA",
+        8
+      ],
+      "color": "White"
+    }
+  },
+  {
+    "title": "MSI MAG A650BN",
+    "category": "PSU",
+    "manufacturer": "MSI",
+    "price": "74.98",
+    "rating": "4.75",
+    "description": "650W ATX power supply (80 PLUS Bronze, Non-Modular).",
+    "specs": {
+      "power_watts": 650,
+      "form_factor": "ATX",
+      "efficiency_rating": "80 PLUS Bronze",
+      "modularity": "Non-Modular",
+      "pcie_8pin": [
+        "PCIe 8-pin",
+        2
+      ],
+      "pcie_12vhpwr": [
+        "None",
+        0
+      ],
+      "sata_connectors": [
+        "SATA",
+        5
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Corsair RM1000e (2023)",
+    "category": "PSU",
+    "manufacturer": "Corsair",
+    "price": "179.99",
+    "rating": "4.75",
+    "description": "1000W ATX power supply (80 PLUS Gold, Full Modular).",
+    "specs": {
+      "power_watts": 1000,
+      "form_factor": "ATX",
+      "efficiency_rating": "80 PLUS Gold",
+      "modularity": "Full Modular",
+      "pcie_8pin": [
+        "PCIe 8-pin",
+        4
+      ],
+      "pcie_12vhpwr": [
+        "12V-2x6",
+        1
+      ],
+      "sata_connectors": [
+        "SATA",
+        7
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Corsair RM750e (2025)",
+    "category": "PSU",
+    "manufacturer": "Corsair",
+    "price": "109.99",
+    "rating": "4.75",
+    "description": "750W ATX power supply (80 PLUS Gold, Full Modular).",
+    "specs": {
+      "power_watts": 750,
+      "form_factor": "ATX",
+      "efficiency_rating": "80 PLUS Gold",
+      "modularity": "Full Modular",
+      "pcie_8pin": [
+        "PCIe 8-pin",
+        2
+      ],
+      "pcie_12vhpwr": [
+        "12V-2x6",
+        1
+      ],
+      "sata_connectors": [
+        "SATA",
+        6
+      ],
+      "color": "White"
+    }
+  },
+  {
+    "title": "Corsair RM850e (2025)",
+    "category": "PSU",
+    "manufacturer": "Corsair",
+    "price": "129.99",
+    "rating": "4.75",
+    "description": "850W ATX power supply (80 PLUS Gold, Full Modular).",
+    "specs": {
+      "power_watts": 850,
+      "form_factor": "ATX",
+      "efficiency_rating": "80 PLUS Gold",
+      "modularity": "Full Modular",
+      "pcie_8pin": [
+        "PCIe 8-pin",
+        2
+      ],
+      "pcie_12vhpwr": [
+        "12V-2x6",
+        1
+      ],
+      "sata_connectors": [
+        "SATA",
+        6
+      ],
+      "color": "White"
+    }
+  },
+  {
+    "title": "MSI MAG A550BN",
+    "category": "PSU",
+    "manufacturer": "MSI",
+    "price": "54.99",
+    "rating": "4.75",
+    "description": "550W ATX power supply (80 PLUS Bronze, Non-Modular).",
+    "specs": {
+      "power_watts": 550,
+      "form_factor": "ATX",
+      "efficiency_rating": "80 PLUS Bronze",
+      "modularity": "Non-Modular",
+      "pcie_8pin": [
+        "PCIe 8-pin",
+        2
+      ],
+      "pcie_12vhpwr": [
+        "None",
+        0
+      ],
+      "sata_connectors": [
+        "SATA",
+        5
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Corsair RM850x (2024)",
+    "category": "PSU",
+    "manufacturer": "Corsair",
+    "price": "144.99",
+    "rating": "4.75",
+    "description": "850W ATX power supply (80 PLUS Gold, Full Modular).",
+    "specs": {
+      "power_watts": 850,
+      "form_factor": "ATX",
+      "efficiency_rating": "80 PLUS Gold",
+      "modularity": "Full Modular",
+      "pcie_8pin": [
+        "PCIe 8-pin",
+        3
+      ],
+      "pcie_12vhpwr": [
+        "12V-2x6",
+        1
+      ],
+      "sata_connectors": [
+        "SATA",
+        8
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Corsair SF1000 (2024)",
+    "category": "PSU",
+    "manufacturer": "Corsair",
+    "price": "239.99",
+    "rating": "4.75",
+    "description": "1000W SFX power supply (80 PLUS Platinum, Full Modular).",
+    "specs": {
+      "power_watts": 1000,
+      "form_factor": "SFX",
+      "efficiency_rating": "80 PLUS Platinum",
+      "modularity": "Full Modular",
+      "pcie_8pin": [
+        "PCIe 8-pin",
+        3
+      ],
+      "pcie_12vhpwr": [
+        "12V-2x6",
+        1
+      ],
+      "sata_connectors": [
+        "SATA",
+        8
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "MSI MAG A650GL",
+    "category": "PSU",
+    "manufacturer": "MSI",
+    "price": "129.94",
+    "rating": "4.75",
+    "description": "650W ATX power supply (80 PLUS Gold, Full Modular).",
+    "specs": {
+      "power_watts": 650,
+      "form_factor": "ATX",
+      "efficiency_rating": "80 PLUS Gold",
+      "modularity": "Full Modular",
+      "pcie_8pin": [
+        "PCIe 8-pin",
+        4
+      ],
+      "pcie_12vhpwr": [
+        "None",
+        0
+      ],
+      "sata_connectors": [
+        "SATA",
+        6
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Montech XR",
+    "category": "Case",
+    "manufacturer": "Montech",
+    "price": "79.89",
+    "rating": "4.70",
+    "description": "ATX Mid Tower PC case (Tempered Glass).",
+    "specs": {
+      "case_type": "ATX Mid Tower",
+      "supported_motherboards": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 420,
+      "max_cooler_height_mm": 175,
+      "max_radiator_mm": 360,
+      "bays_35": [
+        "3.5\"",
+        2
+      ],
+      "bays_25": [
+        "2.5\"",
+        2
+      ],
+      "front_usb_type_c": [
+        "USB 3.2 Gen 2 Type-C",
+        1
+      ],
+      "external_volume_l": 45,
+      "color": "White"
+    }
+  },
+  {
+    "title": "Phanteks XT PRO",
+    "category": "Case",
+    "manufacturer": "Phanteks",
+    "price": "119.98",
+    "rating": "4.70",
+    "description": "ATX Mid Tower PC case (Standard).",
+    "specs": {
+      "case_type": "ATX Mid Tower",
+      "supported_motherboards": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 415,
+      "max_cooler_height_mm": 184,
+      "max_radiator_mm": 360,
+      "bays_35": [
+        "3.5\"",
+        2
+      ],
+      "bays_25": [
+        "2.5\"",
+        2
+      ],
+      "front_usb_type_c": [
+        "None",
+        0
+      ],
+      "external_volume_l": 51.8,
+      "color": "Black"
+    }
+  },
+  {
+    "title": "NZXT H5 Flow (2024)",
+    "category": "Case",
+    "manufacturer": "NZXT",
+    "price": "59.99",
+    "rating": "4.70",
+    "description": "ATX Mid Tower PC case (Tempered Glass).",
+    "specs": {
+      "case_type": "ATX Mid Tower",
+      "supported_motherboards": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 410,
+      "max_cooler_height_mm": 170,
+      "max_radiator_mm": 360,
+      "bays_35": [
+        "3.5\"",
+        1
+      ],
+      "bays_25": [
+        "2.5\"",
+        2
+      ],
+      "front_usb_type_c": [
+        "USB 3.2 Gen 2x2 Type-C",
+        1
+      ],
+      "external_volume_l": 45,
+      "color": "White"
+    }
+  },
+  {
+    "title": "Corsair 3500X ARGB",
+    "category": "Case",
+    "manufacturer": "Corsair",
+    "price": "115.99",
+    "rating": "4.70",
+    "description": "ATX Mid Tower PC case (Tempered Glass).",
+    "specs": {
+      "case_type": "ATX Mid Tower",
+      "supported_motherboards": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 410,
+      "max_cooler_height_mm": 170,
+      "max_radiator_mm": 360,
+      "bays_35": [
+        "3.5\"",
+        2
+      ],
+      "bays_25": [
+        "2.5\"",
+        2
+      ],
+      "front_usb_type_c": [
+        "USB 3.2 Gen 2 Type-C",
+        1
+      ],
+      "external_volume_l": 55.9,
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Cooler Master MasterBox Q300L",
+    "category": "Case",
+    "manufacturer": "Cooler Master",
+    "price": "36.99",
+    "rating": "4.70",
+    "description": "MicroATX Mini Tower PC case (Acrylic).",
+    "specs": {
+      "case_type": "MicroATX Mini Tower",
+      "supported_motherboards": [
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 360,
+      "max_cooler_height_mm": 159,
+      "max_radiator_mm": 240,
+      "bays_35": [
+        "3.5\"",
+        1
+      ],
+      "bays_25": [
+        "2.5\"",
+        2
+      ],
+      "front_usb_type_c": [
+        "None",
+        0
+      ],
+      "external_volume_l": 33.6,
+      "color": "White"
+    }
+  },
+  {
+    "title": "Corsair 4000D Airflow",
+    "category": "Case",
+    "manufacturer": "Corsair",
+    "price": "103.59",
+    "rating": "4.70",
+    "description": "ATX Mid Tower PC case (Tinted Tempered Glass).",
+    "specs": {
+      "case_type": "ATX Mid Tower",
+      "supported_motherboards": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 360,
+      "max_cooler_height_mm": 170,
+      "max_radiator_mm": 360,
+      "bays_35": [
+        "3.5\"",
+        2
+      ],
+      "bays_25": [
+        "2.5\"",
+        2
+      ],
+      "front_usb_type_c": [
+        "USB 3.1 Type-C",
+        1
+      ],
+      "external_volume_l": 48.6,
+      "color": "White"
+    }
+  },
+  {
+    "title": "Lian Li Lancool 207",
+    "category": "Case",
+    "manufacturer": "Lian Li",
+    "price": "89.99",
+    "rating": "4.70",
+    "description": "ATX Mid Tower PC case (Tempered Glass).",
+    "specs": {
+      "case_type": "ATX Mid Tower",
+      "supported_motherboards": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 375,
+      "max_cooler_height_mm": 180,
+      "max_radiator_mm": 360,
+      "bays_35": [
+        "3.5\"",
+        2
+      ],
+      "bays_25": [
+        "2.5\"",
+        2
+      ],
+      "front_usb_type_c": [
+        "USB 3.1 Type-C",
+        1
+      ],
+      "external_volume_l": 45.5,
+      "color": "White"
+    }
+  },
+  {
+    "title": "NZXT H9 Flow (2023)",
+    "category": "Case",
+    "manufacturer": "NZXT",
+    "price": "99.99",
+    "rating": "4.70",
+    "description": "ATX Mid Tower PC case (Tempered Glass).",
+    "specs": {
+      "case_type": "ATX Mid Tower",
+      "supported_motherboards": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 435,
+      "max_cooler_height_mm": 165,
+      "max_radiator_mm": 360,
+      "bays_35": [
+        "3.5\"",
+        2
+      ],
+      "bays_25": [
+        "2.5\"",
+        4
+      ],
+      "front_usb_type_c": [
+        "USB 3.2 Gen 2x2 Type-C",
+        1
+      ],
+      "external_volume_l": 66.9,
+      "color": "White"
+    }
+  },
+  {
+    "title": "Lian Li O11 VISION COMPACT",
+    "category": "Case",
+    "manufacturer": "Lian Li",
+    "price": "124.99",
+    "rating": "4.70",
+    "description": "ATX Mid Tower PC case (Tempered Glass).",
+    "specs": {
+      "case_type": "ATX Mid Tower",
+      "supported_motherboards": [
+        "ATX",
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 408,
+      "max_cooler_height_mm": 167,
+      "max_radiator_mm": 360,
+      "bays_35": [
+        "3.5\"",
+        2
+      ],
+      "bays_25": [
+        "2.5\"",
+        2
+      ],
+      "front_usb_type_c": [
+        "USB 3.1 Type-C",
+        1
+      ],
+      "external_volume_l": 57.4,
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Montech AIR 100 ARGB",
+    "category": "Case",
+    "manufacturer": "Montech",
+    "price": "69.98",
+    "rating": "4.70",
+    "description": "MicroATX Mid Tower PC case (Tempered Glass).",
+    "specs": {
+      "case_type": "MicroATX Mid Tower",
+      "supported_motherboards": [
+        "Micro-ATX",
+        "Mini-ITX"
+      ],
+      "max_gpu_length_mm": 330,
+      "max_cooler_height_mm": 161,
+      "max_radiator_mm": 280,
+      "bays_35": [
+        "3.5\"",
+        2
+      ],
+      "bays_25": [
+        "2.5\"",
+        2
+      ],
+      "front_usb_type_c": [
+        "None",
+        0
+      ],
+      "external_volume_l": 36.1,
+      "color": "White"
+    }
+  },
+  {
+    "title": "Thermalright Peerless Assassin 120 SE",
+    "category": "Cooler",
+    "manufacturer": "Thermalright",
+    "price": "36.59",
+    "rating": "4.85",
+    "description": "Air Cooler CPU cooler.",
+    "specs": {
+      "cooler_type": "Air Cooler",
+      "supported_sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "max_tdp_watts": 250,
+      "height_mm": 155,
+      "radiator_size_mm": null,
+      "rpm": 1550,
+      "noise_level_db": 25.6,
+      "color": "Black"
+    }
+  },
+  {
+    "title": "ARCTIC Liquid Freezer III Pro 360",
+    "category": "Cooler",
+    "manufacturer": "ARCTIC",
+    "price": "84.99",
+    "rating": "4.85",
+    "description": "Liquid Cooler CPU cooler.",
+    "specs": {
+      "cooler_type": "Liquid Cooler",
+      "supported_sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "max_tdp_watts": 300,
+      "height_mm": 80,
+      "radiator_size_mm": 360,
+      "rpm": [
+        600,
+        3000
+      ],
+      "noise_level_db": null,
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Cooler Master Hyper 212 Black Edition",
+    "category": "Cooler",
+    "manufacturer": "Cooler Master",
+    "price": "79.98",
+    "rating": "4.85",
+    "description": "Air Cooler CPU cooler.",
+    "specs": {
+      "cooler_type": "Air Cooler",
+      "supported_sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "max_tdp_watts": 180,
+      "height_mm": 159,
+      "radiator_size_mm": null,
+      "rpm": [
+        800,
+        2000
+      ],
+      "noise_level_db": [
+        6.5,
+        26
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Thermalright Phantom Spirit 120 SE ARGB",
+    "category": "Cooler",
+    "manufacturer": "Thermalright",
+    "price": "37.90",
+    "rating": "4.85",
+    "description": "Air Cooler CPU cooler.",
+    "specs": {
+      "cooler_type": "Air Cooler",
+      "supported_sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "max_tdp_watts": 280,
+      "height_mm": 154,
+      "radiator_size_mm": null,
+      "rpm": 1500,
+      "noise_level_db": 25.6,
+      "color": "Black / Silver"
+    }
+  },
+  {
+    "title": "Thermalright Aqua Elite V3",
+    "category": "Cooler",
+    "manufacturer": "Thermalright",
+    "price": "34.59",
+    "rating": "4.85",
+    "description": "Liquid Cooler CPU cooler.",
+    "specs": {
+      "cooler_type": "Liquid Cooler",
+      "supported_sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "max_tdp_watts": 300,
+      "height_mm": 54,
+      "radiator_size_mm": 360,
+      "rpm": 1500,
+      "noise_level_db": 25.6,
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Noctua NH-D15 chromax.black",
+    "category": "Cooler",
+    "manufacturer": "Noctua",
+    "price": "139.94",
+    "rating": "4.85",
+    "description": "Air Cooler CPU cooler.",
+    "specs": {
+      "cooler_type": "Air Cooler",
+      "supported_sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "max_tdp_watts": 250,
+      "height_mm": 165,
+      "radiator_size_mm": null,
+      "rpm": [
+        300,
+        1500
+      ],
+      "noise_level_db": [
+        19.2,
+        24.6
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "NZXT Kraken 360",
+    "category": "Cooler",
+    "manufacturer": "NZXT",
+    "price": "179.99",
+    "rating": "4.85",
+    "description": "Liquid Cooler CPU cooler.",
+    "specs": {
+      "cooler_type": "Liquid Cooler",
+      "supported_sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "max_tdp_watts": 300,
+      "height_mm": 64,
+      "radiator_size_mm": 360,
+      "rpm": [
+        500,
+        1800
+      ],
+      "noise_level_db": [
+        17.9,
+        30.6
+      ],
+      "color": "Black"
+    }
+  },
+  {
+    "title": "Corsair NAUTILUS 360 RS ARGB",
+    "category": "Cooler",
+    "manufacturer": "Corsair",
+    "price": "129.99",
+    "rating": "4.85",
+    "description": "Liquid Cooler CPU cooler.",
+    "specs": {
+      "cooler_type": "Liquid Cooler",
+      "supported_sockets": [
+        "AM4",
+        "AM5",
+        "LGA1700",
+        "LGA1851"
+      ],
+      "max_tdp_watts": 300,
+      "height_mm": 55,
+      "radiator_size_mm": 360,
+      "rpm": 2100,
+      "noise_level_db": 34,
+      "color": "White"
+    }
+  }
+]
