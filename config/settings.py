@@ -28,7 +28,13 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.getenv('DEBUG') == 'True'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    host.strip()
+    for host in os.getenv('ALLOWED_HOSTS', '').split(',')
+    if host.strip()
+]
+
+DATA_EXAMPLE_PATH = BASE_DIR / os.getenv('DATA_EXAMPLE_PATH', 'data_example/data_example.json')
 
 
 # Application definition
@@ -156,45 +162,4 @@ SIMPLE_JWT = {
     'BLACKLIST_AFTER_ROTATION': True,
     'AUTH_HEADER_TYPES': ('Bearer',),
     'SIGNING_KEY': os.getenv('JWT_SECRET_KEY'),
-}
-
-LOG_DIR = BASE_DIR / 'logs'
-LOG_DIR.mkdir(exist_ok=True)
-
-LOGGING = {
-    'version': 1,
-    'disable_existing_loggers': False,
-    'formatters': {
-        'full': {
-            'format': '{levelname} | {asctime} {name} | {message}',
-            'style': '{',
-            'datefmt': '%Y-%m-%d %H:%M:%S',
-        }
-    },
-    'handlers': {
-        'file': {
-            'level': 'INFO',
-            'class': 'logging.handlers.RotatingFileHandler',
-            'filename': LOG_DIR / 'log.log',
-            'formatter': 'full',
-            'encoding': 'utf-8'
-        }
-    },
-    'loggers': {
-        'games': {
-            'handlers': ['file'],
-            'level': 'DEBUG',
-            'propagate': False
-        },
-        'users': {
-            'handlers': ['file'],
-            'level': 'DEBUG',
-            'propagate': False
-        },
-        'config': {
-            'handlers': ['file'],
-            'level': 'DEBUG',
-            'propagate': False
-        }
-    }
 }
