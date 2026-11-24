@@ -30,3 +30,25 @@
 3. **Шеринг та експорт збірок (Shareable Links & Export):**
    - Генерація постійного посилання на збірку для зручного обміну з друзями без необхідності обов'язкової реєстрації отримувача.
    - Експорт готової специфікації збірки з повним списком деталей та підсумковою вартістю для друку або покупки.
+
+
+## How to run project
+
+1. Create virtual env (`python -m venv .venv`)
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+3. Copy instance-file into your own `.env`:
+```bash
+cp .env.example .env
+```
+4. Create and apply migrations
+```bash
+python manage.py makemigrations
+python manage.py migrate
+```
+5. Run the server
+```bash
+python manage.py runserver
+```
